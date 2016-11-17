@@ -13,7 +13,7 @@ Currently living in Kalmar, Sweden. But is actually from a small town called Osk
 I hope to soon be able to master all the programming languages. Or maybe not all. But some anyway.
 
 
-Here's a picture of me !  
+ 
 
 
 
