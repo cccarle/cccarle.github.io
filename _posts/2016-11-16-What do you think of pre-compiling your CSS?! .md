@@ -16,5 +16,3 @@ date:   2016-11-16 15:13:03
       I believe that I would have used me more of it if I had started to create from scratch.</p>
 </h1>
 
-</artical>
-</div>

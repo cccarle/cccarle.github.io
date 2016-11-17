@@ -16,5 +16,3 @@ date:   2016-11-17 11:13:03
       A smaller site with less complex things. I do think it´s a nice way to work with.</p>
 </h1>
 
-</artical>
-</div>
