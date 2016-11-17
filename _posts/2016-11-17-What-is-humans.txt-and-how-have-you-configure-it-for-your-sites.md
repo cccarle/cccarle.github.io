@@ -17,4 +17,4 @@ date:   2016-11-17 12:54:03
       You place humans.txt in the root directory such as the robots.txt. I did only put contact information and the country.</p>
      
      
-</h1>
+

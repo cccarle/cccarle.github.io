@@ -15,7 +15,3 @@ date:   2016-11-17 12:46:03
     <strong>
      <p> Robots.txt is a text file that specifies which types of robots that can access the site. I placed my robots.txt in the root folder
 </p>
-</h1>
-
-</artical>
-</div>

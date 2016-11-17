@@ -17,5 +17,3 @@ date:   2016-11-17 13:28:03
      So if you share a link, for example, you can take control of how the link should look like for example which image link will show..</p>
      
      
-</h1>
-
