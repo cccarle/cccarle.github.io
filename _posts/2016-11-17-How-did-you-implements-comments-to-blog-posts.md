@@ -13,8 +13,8 @@ date:   2016-11-17 13:11:03
 <artical>
   <h1>
     <strong>
-     <p>If you want to allow comments on the website you have to write atthe top of the file "comments: true,". You can also write "false" 
-     and deny visitors from commenting.There is a use various of services that make it possible to bring up a box where you can comment. 
+     <p>If you want to allow comments on the website you have to write "comments: true," in the "Front Matter". You can also write "false" 
+     and deny visitors from commenting.There is a various of services that make it possible to bring up a box where you can comment. 
      I used Disqus and chose to put it in src / _layouts / posts.</p>
      
      

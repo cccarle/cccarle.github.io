@@ -11,7 +11,9 @@ date:   2016-11-17 11:13:03
 <artical>
   <h1>
     <strong>
-     <p> Static generator can be good in different contexts. A blog or a presentation of yourself is a perfect context. A smaller site with less complex things. I do think it´s a nice way to work with.</p>
+     <p> Static generator can be good in different contexts. 
+     A blog or a presentation of yourself is a perfect context.
+      A smaller site with less complex things. I do think it´s a nice way to work with.</p>
 </h1>
 
 </artical>
