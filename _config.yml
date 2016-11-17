@@ -1,0 +1,12 @@
+# Site settings
+title: Home
+email: carleinarsson@live.se
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my awesome examination page. Stay tuned.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: caaaaarle
+github_username:  cccarle
+
+# Build settings
+markdown: kramdown
