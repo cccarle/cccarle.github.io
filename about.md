@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-##Hey!
+Hey!
 My name is Carl Ejnarsson. I'm 23 years old and currently studying programming at LNU.
 
 Currently living in Kalmar, Sweden. But is actually from a small town called Oskarshamn.
